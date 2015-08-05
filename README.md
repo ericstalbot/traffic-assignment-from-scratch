@@ -20,12 +20,13 @@ understand how popular travel modeling packages work by implementing their algor
     discussed in the notebook for that algorithm
   - completeness: the note books should help users build an accurate mental model of the
     entire traffic assignment landscape.
-
+  - from scratch: algorithms should be coded primarily with Python core, with the standard 
+    library as needed. Third-party libraries should rarely, if ever, be used. This will 
+    serve to dispell the "magic" surrounding commercial travel modeling packages. The
+    one exception to this might be when programming visualizations, animations, etc. 
 
 - topics to cover
   - approaches for modeling networks
+  - shortest path algorithms
   - static and dynamic assignment
   - micro, meso, and macro assignment
-
-
-
