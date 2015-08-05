@@ -17,7 +17,9 @@ understand how popular travel modeling packages work by implementing their algor
     a reference that is not suberbly helpful and well-written. Tutorial-type references 
     should have preference over original references.
   - popular packages: packages that use an algorithm (or some variation of it) should be 
-    discussed in the notebook for that algorithm
+    discussed in the notebook for that algorithm. Emphasis should be given to 
+    algorithms used in popular packages used for professional work, rather than 
+    experimental or academic approaches.
   - completeness: the note books should help users build an accurate mental model of the
     entire traffic assignment landscape.
   - from scratch: algorithms should be coded primarily with Python core, with the standard 
